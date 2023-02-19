@@ -1,2 +1,2 @@
 # typewriter-gif
-Generates a gif with a typewriter effect.
+Generates a gif with a typing effect.
